@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GUDAGUDA TRADUZINDO TIRINHAS DE FATE</title>
+  <style>
+    body {
+      background-color: #f3f3f3;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    h1 {
+      margin: 0;
+    }
+    
+    main {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 20px;
+    }
+    
+    .bingo-card {
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      margin: 10px;
+      padding: 20px;
+      text-align: center;
+      width: 200px;
+    }
+    
+    .bingo-card img {
+      max-width: 100%;
+    }
+    
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>GUDAGUDA</h1>
+  </header>
+  
+  <main>
+    <div class="bingo-card">
+      <img src="caminho/para/imagem-1.jpg" alt="Imagem 1">
+      <h2>Card 1</h2>
+    </div>
+    
+    <div class="bingo-card">
+      <img src="caminho/para/imagem-2.jpg" alt="Imagem 2">
+      <h2>Card 2</h2>
+    </div>
+    
+    <!-- Adicione mais cartões conforme necessário -->
+  </main>
+  
+  <footer>
+    <p>&copy; RESERVADO A PAGINA GUDAGUDA TRADUZINDO TIRINHAS DE FATE 2023</p>
+  </footer>
+</body>
+</html>
