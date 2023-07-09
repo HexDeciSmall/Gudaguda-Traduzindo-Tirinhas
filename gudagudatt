@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>GUDAGUDA TRADUZINDO TIRINHAS DE FATE</title>
+  <title>Gudaguda - Traduzindo Tirinhas de Fate</title>
   <style>
     body {
       background-color: #f3f3f3;
@@ -28,7 +28,7 @@
       padding: 20px;
     }
     
-    .bingo-card {
+    .image-box {
       background-color: #fff;
       border-radius: 8px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -38,7 +38,7 @@
       width: 200px;
     }
     
-    .bingo-card img {
+    .image-box img {
       max-width: 100%;
     }
     
@@ -52,25 +52,49 @@
 </head>
 <body>
   <header>
-    <h1>GUDAGUDA</h1>
+    <h1>Gudaguda - Traduzindo Tirinhas de Fate</h1>
   </header>
   
   <main>
-    <div class="bingo-card">
+    <div class="image-box">
       <img src="caminho/para/imagem-1.jpg" alt="Imagem 1">
-      <h2>Card 1</h2>
     </div>
     
-    <div class="bingo-card">
+    <div class="image-box">
       <img src="caminho/para/imagem-2.jpg" alt="Imagem 2">
-      <h2>Card 2</h2>
     </div>
     
-    <!-- Adicione mais cartões conforme necessário -->
+    <div class="image-box">
+      <img src="caminho/para/imagem-3.jpg" alt="Imagem 3">
+    </div>
+    
+    <div class="image-box">
+      <img src="caminho/para/imagem-4.jpg" alt="Imagem 4">
+    </div>
+    
+    <div class="image-box">
+      <img src="caminho/para/imagem-5.jpg" alt="Imagem 5">
+    </div>
+    
+    <div class="image-box">
+      <img src="caminho/para/imagem-6.jpg" alt="Imagem 6">
+    </div>
+    
+    <div class="image-box">
+      <img src="caminho/para/imagem-7.jpg" alt="Imagem 7">
+    </div>
+    
+    <div class="image-box">
+      <img src="caminho/para/imagem-8.jpg" alt="Imagem 8">
+    </div>
+    
+    <div class="image-box">
+      <img src="caminho/para/imagem-9.jpg" alt="Imagem 9">
+    </div>
   </main>
   
   <footer>
-    <p>&copy; RESERVADO A PAGINA GUDAGUDA TRADUZINDO TIRINHAS DE FATE 2023</p>
+    <p>&copy; 2023 Gudaguda - Traduzindo Tirinhas de Fate. Todos os direitos reservados.</p>
   </footer>
 </body>
 </html>
